@@ -1,4 +1,6 @@
 # 2403PTDS-RegressionBrandon
+ Link to Trello Board : https://trello.com/b/idv8Z0Vm/2403pt-data-science-brandon-jacobs
+
 Agricultural CO₂ Emissions and Temperature Prediction
 This repository contains the code, data, and analysis for predicting CO₂ emissions in the agricultural sector and assessing their impacts on temperature. Using various regression models, the project identifies the best approach for accurately predicting average temperature based on emissions data, population demographics, and other agricultural factors.
 
